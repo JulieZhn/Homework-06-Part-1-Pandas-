@@ -1,1 +1,1 @@
-# Homework-06-Part-1-Pandas-
+This is a PANDA homework of Soma's Foundation class!
